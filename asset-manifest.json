@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "./static/css/main.619b3469.chunk.css",
+    "main.js": "./static/js/main.de70b7e6.chunk.js",
+    "main.js.map": "./static/js/main.de70b7e6.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.8c9895b1.js",
+    "runtime-main.js.map": "./static/js/runtime-main.8c9895b1.js.map",
+    "static/js/2.657c42ed.chunk.js": "./static/js/2.657c42ed.chunk.js",
+    "static/js/2.657c42ed.chunk.js.map": "./static/js/2.657c42ed.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.619b3469.chunk.css.map": "./static/css/main.619b3469.chunk.css.map",
+    "static/js/2.657c42ed.chunk.js.LICENSE.txt": "./static/js/2.657c42ed.chunk.js.LICENSE.txt",
+    "static/media/AdobeStock_267287110 1.f1d6c525.png": "./static/media/AdobeStock_267287110 1.f1d6c525.png",
+    "static/media/Airbus.3ce575f2.svg": "./static/media/Airbus.3ce575f2.svg",
+    "static/media/Did_you_know.9409c589.svg": "./static/media/Did_you_know.9409c589.svg",
+    "static/media/StatsCard.scss": "./static/media/Element.bd02f278.svg",
+    "static/media/Forbes.d55f2985.svg": "./static/media/Forbes.d55f2985.svg",
+    "static/media/index.scss": "./static/media/Poppins-SemiBold.ac8d04b6.ttf",
+    "static/media/Nascar.84dfe4f7.svg": "./static/media/Nascar.84dfe4f7.svg",
+    "static/media/Logo.scss": "./static/media/Play_icon.329bcc8c.svg",
+    "static/media/Read.429dd683.svg": "./static/media/Read.429dd683.svg",
+    "static/media/USC.d8cb835c.svg": "./static/media/USC.d8cb835c.svg",
+    "static/media/Pricing.scss": "./static/media/bg.725164c1.png",
+    "static/media/Main.scss": "./static/media/bg2.b9807a59.png",
+    "static/media/PlanCard.scss": "./static/media/pricing-icon-ticketchat_1.0136140f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c9895b1.js",
+    "static/js/2.657c42ed.chunk.js",
+    "static/css/main.619b3469.chunk.css",
+    "static/js/main.de70b7e6.chunk.js"
+  ]
+}
