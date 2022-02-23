@@ -1,0 +1,29 @@
+.header {
+  position: relative;
+  margin-bottom: 194px;
+
+  @media (max-width: 1024px) {
+    margin-bottom: 794px;
+  }
+
+  &__bgimage {
+    border-radius: 70px 0px 0px 70px;
+    top: 16px;
+    right: 0;
+    position: absolute;
+    z-index: -1;
+  }
+
+  &__content {
+    margin: 0 auto;
+    padding: 0 12px;
+    max-width: 1090px;
+    height: 830px;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    row-gap: 50px;
+    column-gap: 64px;
+    justify-content: center;
+  }
+}

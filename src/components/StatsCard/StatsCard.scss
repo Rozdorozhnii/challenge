@@ -1,0 +1,49 @@
+.stats-card {
+  width: 550px;
+  display: flex;
+  gap: 30px;
+  background: #fff;
+  box-shadow: 0px 1px 20px rgba(250, 149, 49, 0.15);
+  border-radius: 16px;
+  background-image: url('../../images/Element.svg');
+  background-repeat: no-repeat;
+  background-position: 14px;
+  height: 160px;
+
+  &__rate {
+    display: flex;
+    justify-content: center;
+    min-width: 202px;
+    font-family: OpenSans;
+    font-weight: bold;
+    font-size: 50px;
+    line-height: 68px;
+    background-clip: text;
+    background-image: linear-gradient(90deg, #ffbd39 0%, #fa9531);
+    color: transparent;
+    padding: 46px 15px;
+  }
+
+  &__aside {
+    max-width: 264px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 9px;
+  }
+
+  &__title {
+    font-family: Poppins;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+    color: #050505;
+  }
+
+  &__description {
+    font-family: OpenSans;
+    font-size: 14px;
+    line-height: 24px;
+    color: #050505;
+  }
+}

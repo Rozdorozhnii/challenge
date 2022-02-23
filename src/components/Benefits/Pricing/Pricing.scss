@@ -1,0 +1,54 @@
+.pricing {
+  background-image: url(../../../images/bg.png);
+  background-size: cover;
+  padding: 60px 120px;
+  border-radius: 16px;
+  display: flex;
+  justify-content: center;
+  row-gap: 50px;
+  column-gap: 110px;
+  flex-wrap: wrap;
+
+  &__detail {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    max-width: 432px;
+  }
+
+  &__tag {
+    font-family: OpenSans;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.12em;
+    color: #fa9531;
+    margin-bottom: 14px;
+  }
+
+  &__title {
+    font-family: Poppins;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 55px;
+    color: #050505;
+    margin-bottom: 14px;
+  }
+
+  &__content {
+    font-family: OpenSans;
+    font-size: 16px;
+    line-height: 26px;
+    color: #050505;
+    margin-bottom: 28px;
+  }
+
+  &__link {
+    max-width: 185px;
+  }
+
+  &__cards {
+    display: flex;
+    gap: 38px;
+  } 
+}

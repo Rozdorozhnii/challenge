@@ -1,0 +1,89 @@
+.plan-card {
+  max-width: 279px;
+  display: flex;
+  flex-direction: column;
+  background: #fff;
+  border-radius: 16px;
+  box-shadow: 5px 10px 90px -10px rgba(0, 0, 0, 0.1);
+  padding: 156px 56px 38px;
+  
+  &__img {
+    position: relative;
+    width: 56px;
+    margin-bottom: 44px;
+  }
+
+  &__title {
+    font-family: Poppins;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 24px;
+    color: #050505;
+    margin-bottom: 18px;
+
+    &--without-chat {
+      position: relative;
+
+      &:before {
+        position: absolute;
+        content: "";
+        height: 42px;
+        width: 60px;
+        background-image: url('../../images/pricing-icon-ticket-2_1.svg');
+        top: -83px;
+        z-index: 3;
+      }
+    }
+
+    &--with-chat {
+      position: relative;
+
+      &:before {
+        position: absolute;
+        content: "";
+        height: 67px;
+        width: 83px;
+        background-image: url('../../images/pricing-icon-ticketchat_1.svg');
+        top: -107px;
+        left: -9px;
+        z-index: 3;
+      }
+    }
+  }
+
+
+
+  &__description {
+    font-family: OpenSans;
+    font-size: 16px;
+    line-height: 24px;
+    color: #65676B;
+    margin-bottom: 48px;
+    flex-grow: 1;
+  }
+
+  &__amount {
+    font-family: Poppins;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+    color: #050505;
+    margin-bottom: 36px;
+  }
+
+  &__card {
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    padding: 12px;
+    border: 1px solid #050505;
+    box-sizing: border-box;
+    border-radius: 6px;
+
+    font-family: Poppins;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    color: #050505;
+  }
+}

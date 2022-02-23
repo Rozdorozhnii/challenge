@@ -1,0 +1,54 @@
+.main {
+  background-image: url(../../../images/bg2.png);
+  background-size: cover;
+  border-radius: 16px;
+  padding: 120px 120px 100px;
+  display: flex;
+  flex-wrap: wrap;
+  row-gap: 50px;
+  column-gap: 90px;
+  justify-content: center;
+
+  &__info {
+    max-width: 492px;
+  }
+
+  &__tag {
+    font-family: OpenSans;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.12em;
+    color: #fa9531;
+    margin-bottom: 19px;
+  }
+
+  &__title {
+    font-family: Poppins;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 43px;
+    color: #050505;
+    margin-bottom: 19px;
+  }
+
+  &__content {
+    font-family: OpenSans;
+    font-size: 16px;
+    line-height: 28px;
+    color: #050505;
+    margin-bottom: 19px;
+  }
+
+  &__img {
+    width: 504px;
+    height: 392px;
+    object-fit: contain;
+  }
+
+  &__benefits {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+  }
+}

@@ -1,9 +1,5 @@
-# React TypeScript Starter Pack
+- [DEMO LINK](https://Rozdorozhnii.github.io/challenge/)
 
-To use this template click `Use this template`
+- [Figma design](https://mandrillapp.com/track/click/31141827/www.figma.com?p=eyJzIjoiNHZQWkZ0SHRCdGVoaGVoQUEtSnhGc2t6OElvIiwidiI6MSwicCI6IntcInVcIjozMTE0MTgyNyxcInZcIjoxLFwidXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5maWdtYS5jb21cXFwvZmlsZVxcXC9FMXZqdzE4TldWeFNDQzlSQldFMm1KXFxcL0Zyb250ZW5kLUNvZGUtQ2hhbGxlbmdlXCIsXCJpZFwiOlwiODExMWI3OTZiZjk3NGFjMDk3NGU2NDU1OTk0NzUyMGFcIixcInVybF9pZHNcIjpbXCJhN2M3Y2EyMzMzOTE0MmRkZjQ2OTc1YzkyYzRiODg1Njc0MTY3YjUxXCJdfSJ9/)
 
-### Available Scripts
-
-`Deploy` - available to deploy your application to gh-pages
-
-`SCSS Preprocessor` - available to write your styles with modern style language
+React/TypeScript, Sass used.
