@@ -4,9 +4,17 @@
 
   &__pricing {
     margin-bottom: 156px;
+
+    @media (max-width: 1024px) {
+      margin-bottom: 56px;
+    }
   }
 
   &__main {
     margin-bottom: 128px;
+
+    @media (max-width: 1024px) {
+      margin-bottom: 0;
+    }
   }
 }

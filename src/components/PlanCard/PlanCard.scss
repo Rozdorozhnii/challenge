@@ -1,5 +1,5 @@
 .plan-card {
-  max-width: 279px;
+  width: 263px;
   display: flex;
   flex-direction: column;
   background: #fff;
@@ -50,8 +50,6 @@
       }
     }
   }
-
-
 
   &__description {
     font-family: OpenSans;

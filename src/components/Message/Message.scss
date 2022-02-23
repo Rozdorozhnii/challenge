@@ -2,7 +2,6 @@
   display: flex;
   gap: 14px;
 
-  
   &__receiver {
     align-self: flex-end;
   }
@@ -21,7 +20,7 @@
     font-size: 20px;
     line-height: 28px;
     background-color: #f5f5f7;
-    padding: 12px 12px;
+    padding: 12px 24px;
     max-width: 316px;
     color: #65676b;
     box-shadow: 9px 10px 25px rgba(0, 0, 0, 0.1);
