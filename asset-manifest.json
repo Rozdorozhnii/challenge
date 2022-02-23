@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "./static/css/main.619b3469.chunk.css",
+    "main.css": "./static/css/main.79ca1f2e.chunk.css",
     "main.js": "./static/js/main.de70b7e6.chunk.js",
     "main.js.map": "./static/js/main.de70b7e6.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.8c9895b1.js",
@@ -8,7 +8,7 @@
     "static/js/2.657c42ed.chunk.js": "./static/js/2.657c42ed.chunk.js",
     "static/js/2.657c42ed.chunk.js.map": "./static/js/2.657c42ed.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.619b3469.chunk.css.map": "./static/css/main.619b3469.chunk.css.map",
+    "static/css/main.79ca1f2e.chunk.css.map": "./static/css/main.79ca1f2e.chunk.css.map",
     "static/js/2.657c42ed.chunk.js.LICENSE.txt": "./static/js/2.657c42ed.chunk.js.LICENSE.txt",
     "static/media/AdobeStock_267287110 1.f1d6c525.png": "./static/media/AdobeStock_267287110 1.f1d6c525.png",
     "static/media/Airbus.3ce575f2.svg": "./static/media/Airbus.3ce575f2.svg",
@@ -27,7 +27,7 @@
   "entrypoints": [
     "static/js/runtime-main.8c9895b1.js",
     "static/js/2.657c42ed.chunk.js",
-    "static/css/main.619b3469.chunk.css",
+    "static/css/main.79ca1f2e.chunk.css",
     "static/js/main.de70b7e6.chunk.js"
   ]
 }
